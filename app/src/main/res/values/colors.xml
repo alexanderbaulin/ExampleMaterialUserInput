@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F5F5F5</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="pink">#008577</color>
+    <color name="dark_pink">#00574B</color>
+    <color name="transparent">#00ff00</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="secondary_text_dark_material">@android:color/secondary_text_dark</color>
+    <color name="secondary_text_dark">#bebebe</color>   <!--@android:color/dim_foreground_dark -->
+    <color name="divider">#808080</color>
+</resources>

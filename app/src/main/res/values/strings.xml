@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">UserInput</string>
+
+    <string name="service_3">Service Привилегия 3+</string>
+    <string name="submit">Готово</string>
+    <string name="appeal">Обращение</string>
+    <string name="appeal_man">Господин</string>
+    <string name="appeal_women">Госпожа</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="phone">Телефон</string>
+    <string name="phone_country_code_russia">+7(</string>
+    <string name="email">E-mail</string>
+    <string name="vin">VIN</string>
+    <string name="manufacture_year">Год</string>
+    <string name="model_class">Класс</string>
+    <string name="dealer">Дилер</string>
+    <string name="city">Город</string>
+
+    <string name="enter_your_surname"><font size="16">Введите Вашу фамилию</font></string>
+    <string name="enter_your_name"><font size="16">Введите Ваше имя</font></string>
+    <string name="enter_your_patronymic"><font size="16">Введите Ваше отчество</font></string>
+    <string name="enter_your_email"><font size="16">Введите email адрес</font></string>
+    <string name="enter_your_vin"><font size="16">Введите VIN</font></string>
+
+    <string name="select_your_manufacture_year"><font size="16">Выберите год выпуска</font></string>
+    <string name="select_your_model_class"><font size="16">Выберите класс</font></string>
+    <string name="select_your_city"><font size="16">Выберите город</font></string>
+    <string name="select_your_dealer"><font size="16">Выберите дилера</font></string>
+    <string name="select_appeal">Выберите обращение</string>
+    <string name="necessarily_field">Обязательное поле</string>
+    <string name="incorrect_phone">Некорректный телефон</string>
+    <string name="incorrect_email">Некорректный email</string>
+    <string name="incorrect_vin">Некорректный vin</string>
+    <string name="field_not_selected">Не выбрано поле</string>
+
+    <string-array name="list_dealers">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="list_class">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="list_year">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="list_city">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
